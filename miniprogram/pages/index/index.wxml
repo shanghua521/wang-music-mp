@@ -18,6 +18,10 @@
       <view class="category-box" wx:for="{{categoryBannerList}}" wx:key="index">
         <image src="{{item.image}}"></image>
       </view>
-    </view>
+    </view> 
   </scroll-view>
+
+  <view class="trending-musician">
+    <musician-banner title="推荐音乐人" list="{{ musicianBannerList }}"></musician-banner>
+  </view>
 </view>

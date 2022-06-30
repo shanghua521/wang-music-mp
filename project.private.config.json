@@ -1,7 +1,7 @@
 {
   "projectname": "wang-music-mp",
   "setting": {
-    "compileHotReLoad": true,
+    "compileHotReLoad": false,
     "preloadBackgroundData": false,
     "urlCheck": false
   },

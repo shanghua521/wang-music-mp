@@ -11,9 +11,29 @@ Page({
       },
       {
         image: '../../images/hip-hop.png'
-      }, 
+      },
       {
         image: '../../images/hip-hop.png'
+      }
+    ],
+    musicianBannerList: [
+      {
+        id: '1',
+        name: '蕾哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+      {
+        id: '2',
+        name: '蕾哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
+      },
+      {
+        id: '3',
+        name: '蕾哈娜',
+        category: '流行音乐',
+        photo: '../../images/musician-photo.png'
       }
     ]
   },
